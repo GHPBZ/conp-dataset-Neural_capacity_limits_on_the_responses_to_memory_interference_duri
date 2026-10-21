@@ -3,10 +3,11 @@
     "description": "Neural capacity limits on the responses to memory interference during working memory in young and old adults",
     "creators": [
         {
-            "name": "Multiple Contributors"
+            "name": "Jason Steffener"
         }
     ],
     "version": "2020-08-20T19:23:58.721264",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -31,7 +32,12 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://osf.io/xwajn/"
+                "landingPage": "https://osf.io/xwajn/",
+                 "authorizations": [
+                      {
+                        "value": "open"
+                      }            
+                ]
             },
             "formats": [
                 "N/A"
@@ -75,7 +81,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         }
